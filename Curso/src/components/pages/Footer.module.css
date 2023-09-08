@@ -1,0 +1,15 @@
+#Container_social{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+}
+#Container_social svg{
+    font-size: 20px;
+}
+
+#footerCon{
+    display: flex;
+    flex-direction: column;
+    align-content: end;
+}

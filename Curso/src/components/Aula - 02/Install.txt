@@ -1,0 +1,12 @@
+            Instalação
+
+1 . Win + R;
+2 . Abrir: cmd;
+3 . cd Desktop;
+4 . mkdir NameFolder;
+5 . cd NameFolder;
+6 . npm create vite@latest NomeProjeto -- --template react;
+7 . npm install;
+8 . code .;
+9 . CTRL + ';
+10 . npm run dev ;

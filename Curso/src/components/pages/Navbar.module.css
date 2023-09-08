@@ -1,0 +1,12 @@
+#navContainer{
+    display: flex;
+    padding: 0px;
+}
+
+#listaContainer{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    gap: 25px;
+    color: black;
+}

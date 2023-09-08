@@ -1,0 +1,19 @@
+#formContainer{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
+}
+
+#alinhar{
+    text-align: center;
+}
+
+#submit{
+    box-shadow: 1px 0 4px 0 rgba(102, 102, 102, 0.493);
+    background-color: #ffff;
+    color:#494949;
+    padding: 10px;
+    border-radius: 9px;
+    border:0px;
+}

@@ -1,0 +1,29 @@
+/* Usar index.css apenas para alterações globais */
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+button{
+  box-shadow: 1px 0 5px 0 rgb(90, 90, 90);
+  border-radius: 11px;
+  padding: 15px;
+  border: 0px;
+  color: #424242;
+}
+
+li{
+  list-style-type: none;
+}
+
+a{
+  text-decoration:none;
+}
+
+a:link {
+  color: #000;
+}
+
+a:link::after{
+  color: #000;
+}
